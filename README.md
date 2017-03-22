@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+这是第一次开通Github时候建立的一个小项目，主要是用于当时的熟悉操作，没有任何的代码。
