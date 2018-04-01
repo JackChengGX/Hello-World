@@ -1,0 +1,31 @@
+[
+    {
+        "posters":[
+                    {
+                        "src":"http://static.t.abmau.com/assets/img/h5/coupon/coupon_bg03.png",
+                        "type":1,
+                        "useType":1
+                        },
+                    {   "src":"http://static.t.abmau.com/assets/img/h5/coupon/coupon_bg02.png",
+                        "type":2,
+                        "useType":2
+                    },
+                    {   "src":"http://static.t.abmau.com/assets/img/h5/coupon/coupon_bg03.png",
+                        "type":1,
+                        "useType":3
+                    },
+                    {   "src":"http://static.t.abmau.com/assets/img/h5/coupon/coupon_bg03.png",
+                        "type":1,
+                        "useType":4
+                    },
+                    {   "src":"http://static.t.abmau.com/assets/img/h5/coupon/coupon_bg02.png",
+                        "type":2,
+                        "useType":5
+                    }
+                ],
+          "tabs": [
+                    {"type": "高级经销商体验券","total":10,"use":6}, 
+                    {"type": "中级经销商体验券","total":18,"use":9}
+                ]       
+    }
+]
